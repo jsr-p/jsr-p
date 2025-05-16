@@ -1,12 +1,14 @@
 # jsr-p
 
-## website
-
 - [jsr-p.github.io/](https://jsr-p.github.io/)
+
+## misc
+
+- [Thank you](https://jsr-p.github.io/vimmin/)
+  [Bill](https://www.wikiwand.com/en/articles/Bill_Joy),
+  [Bram](https://www.wikiwand.com/en/articles/Bram_Moolenaar)
+  and [everyone](https://github.com/neovim)
 - [slides](https://jsr-p.github.io/slides/)
-
-## stuff
-
 - [SL](https://github.com/jsr-p/super-learner-tl/tree/main)
 - [data sprint feb 25 🚢](https://github.com/jsr-p/sodas-data-sprint)
 - [projectin'](https://github.com/jsr-p/axler-example)
