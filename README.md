@@ -2,6 +2,10 @@
 
 - [jsr-p.github.io/](https://jsr-p.github.io/)
 
+## packages
+
+- [tabx](https://github.com/jsr-p/tabx)
+
 ## misc
 
 - [Thank you](https://jsr-p.github.io/vimmin/)
