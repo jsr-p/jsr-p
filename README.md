@@ -5,6 +5,8 @@
 ## packages
 
 - [tabx](https://github.com/jsr-p/tabx)
+- [did-imputation](https://github.com/jsr-p/did-imputation)
+- [did-stepwise](https://github.com/jsr-p/did-stepwise)
 
 ## misc
 
