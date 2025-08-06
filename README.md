@@ -4,6 +4,7 @@
 
 ## packages
 
+- [fastlr: fast(er) logistic regression](https://github.com/jsr-p/fastlr)
 - [tabx](https://github.com/jsr-p/tabx)
 - [did-imputation](https://github.com/jsr-p/did-imputation)
 - [did-stepwise](https://github.com/jsr-p/did-stepwise)
