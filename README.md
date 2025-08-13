@@ -12,7 +12,7 @@
 
 ## misc
 
-- [vimmin'](https://jsr-p.github.io/vimmin/) 😍
+- [vimmin'](https://jsr-p.github.io/vimmin/)
   - Thank you
     [Bill](https://www.wikiwand.com/en/articles/Bill_Joy),
     [Bram](https://www.wikiwand.com/en/articles/Bram_Moolenaar)
