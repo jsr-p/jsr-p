@@ -4,6 +4,7 @@
 
 ## packages
 
+- [idid](https://github.com/jsr-p/idid/tree/main)
 - [csa-py](https://github.com/jsr-p/csa-py)
 - [fastlr: fast(er) logistic regression](https://github.com/jsr-p/fastlr)
 - [tabx](https://github.com/jsr-p/tabx)
@@ -12,6 +13,7 @@
 
 ## misc
 
+- [idid docs](https://jsr-p.github.io/idid/)
 - [vimmin'](https://jsr-p.github.io/vimmin/)
   - Thank you
     [Bill](https://www.wikiwand.com/en/articles/Bill_Joy),
